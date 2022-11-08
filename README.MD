@@ -16,7 +16,7 @@ It supports the following UUID versions:
 ## Installation
 
 ```shell
-go get -u -v github.com/gogf/guuid@master
+go get -u -v github.com/tikrgo/guuid@master
 ```
 
 tip: when the `guuid` version is greater than `v1.0.0`, the dependent `GoFrame` version is `v2.1.1`

@@ -11,7 +11,7 @@ package guuid_test
 import (
 	"testing"
 
-	"github.com/gogf/guuid"
+	"github.com/tikrgo/guuid"
 )
 
 func Benchmark_New(b *testing.B) {

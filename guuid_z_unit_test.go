@@ -11,7 +11,7 @@ import (
 
 	"github.com/gogf/gf/v2/test/gtest"
 
-	"github.com/gogf/guuid"
+	"github.com/tikrgo/guuid"
 )
 
 func Test_Basic(t *testing.T) {
